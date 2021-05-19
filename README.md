@@ -31,3 +31,5 @@ check - daemon.zip
 The stdout logs, error logs and wrapper logs are all saved in the logpath mentioned in the xml.
 Once the above steps are done you should see the service running as below. (the deamon.zip attached results to this)
 
+## For more details :
+Refer to https://github.com/winsw/winsw
